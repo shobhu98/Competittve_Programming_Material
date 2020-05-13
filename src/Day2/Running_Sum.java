@@ -7,8 +7,10 @@ public class Running_Sum {
     public static void main(String args[]) {
         Scanner s=new Scanner(System.in);
         ArrayList arr=new ArrayList();
+        int[] arr1=new int[8];
+
         int sum=0;
-        int ch=0;
+
         while(true){
             int n=s.nextInt();
             sum=sum+n;
