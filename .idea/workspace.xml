@@ -43,39 +43,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Encryption">
-    <configuration name="Climbing_The_Leaderboard_Hackerrank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day4.Climbing_The_Leaderboard_Hackerrank" />
-      <module name="Interview and Placement Preparation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Day4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TheGridSearch">
     <configuration name="Encryption" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day5.Encryption" />
       <module name="Interview and Placement Preparation" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Day5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Extra_Long_Fatorials" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day4.Extra_Long_Fatorials" />
-      <module name="Interview and Placement Preparation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Day4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,13 +83,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TheGridSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day5.TheGridSearch" />
+      <module name="Interview and Placement Preparation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TheGridSearch2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day5.TheGridSearch2" />
+      <module name="Interview and Placement Preparation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TheGridSearch" />
+        <item itemvalue="Application.TheGridSearch2" />
         <item itemvalue="Application.Encryption" />
         <item itemvalue="Application.Non_Divisible_Subset" />
         <item itemvalue="Application.Magic_Square" />
-        <item itemvalue="Application.Extra_Long_Fatorials" />
-        <item itemvalue="Application.Climbing_The_Leaderboard_Hackerrank" />
       </list>
     </recent_temporary>
   </component>
@@ -137,7 +137,8 @@
       <workItem from="1590755762655" duration="21000" />
       <workItem from="1590755806213" duration="9251000" />
       <workItem from="1591219068664" duration="6414000" />
-      <workItem from="1591330513495" duration="11389000" />
+      <workItem from="1591330513495" duration="12052000" />
+      <workItem from="1591373667137" duration="6134000" />
     </task>
     <servers />
   </component>
