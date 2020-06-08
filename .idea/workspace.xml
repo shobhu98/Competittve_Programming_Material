@@ -43,13 +43,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TheGridSearch">
-    <configuration name="Encryption" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day5.Encryption" />
+  <component name="RunManager" selected="Application.ChefandIcecream">
+    <configuration name="ChefandIcecream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day7.ChefandIcecream" />
       <module name="Interview and Placement Preparation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day5.*" />
+          <option name="PATTERN" value="Day7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,12 +57,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Magic_Square" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day5.Magic_Square" />
+    <configuration name="ChefandPriceControl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day7.ChefandPriceControl" />
       <module name="Interview and Placement Preparation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day5.*" />
+          <option name="PATTERN" value="Day7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Non_Divisible_Subset" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day5.Non_Divisible_Subset" />
+    <configuration name="ChefandString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day7.ChefandString" />
       <module name="Interview and Placement Preparation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day5.*" />
+          <option name="PATTERN" value="Day7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TheGridSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day5.TheGridSearch" />
+    <configuration name="Ques1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day6.Ques1" />
       <module name="Interview and Placement Preparation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day5.*" />
+          <option name="PATTERN" value="Day6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TheGridSearch2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day5.TheGridSearch2" />
+    <configuration name="Ques2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day6.Ques2" />
       <module name="Interview and Placement Preparation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day5.*" />
+          <option name="PATTERN" value="Day6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TheGridSearch" />
-        <item itemvalue="Application.TheGridSearch2" />
-        <item itemvalue="Application.Encryption" />
-        <item itemvalue="Application.Non_Divisible_Subset" />
-        <item itemvalue="Application.Magic_Square" />
+        <item itemvalue="Application.ChefandIcecream" />
+        <item itemvalue="Application.ChefandString" />
+        <item itemvalue="Application.ChefandPriceControl" />
+        <item itemvalue="Application.Ques2" />
+        <item itemvalue="Application.Ques1" />
       </list>
     </recent_temporary>
   </component>
@@ -138,7 +138,9 @@
       <workItem from="1590755806213" duration="9251000" />
       <workItem from="1591219068664" duration="6414000" />
       <workItem from="1591330513495" duration="12052000" />
-      <workItem from="1591373667137" duration="6134000" />
+      <workItem from="1591373667137" duration="6499000" />
+      <workItem from="1591409834466" duration="7000" />
+      <workItem from="1591539846448" duration="11876000" />
     </task>
     <servers />
   </component>
@@ -157,5 +159,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Day6/Ques1.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
