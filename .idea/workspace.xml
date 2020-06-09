@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="a9e69f46-f2e2-4fd0-b7a0-c2c4e90e26aa" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day7/TomandJerrygame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day7/TomandJerrygame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Interview and Placement Preparation/Day7/TomandJerry2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Interview and Placement Preparation/Day7/TomandJerry2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day7/TomandJerry2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day7/TomandJerry2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day8.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +46,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TomandJerry2">
+  <component name="RunManager" selected="Application.Operation_on_a_tuple">
     <configuration name="ChefandIcecream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day7.ChefandIcecream" />
       <module name="Interview and Placement Preparation" />
@@ -58,12 +60,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ChefandPriceControl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day7.ChefandPriceControl" />
+    <configuration name="EvenMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day8.EvenMatrix" />
       <module name="Interview and Placement Preparation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day7.*" />
+          <option name="PATTERN" value="Day8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ChefandString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day7.ChefandString" />
+    <configuration name="Operation_on_a_tuple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day8.Operation_on_a_tuple" />
       <module name="Interview and Placement Preparation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day7.*" />
+          <option name="PATTERN" value="Day8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Operation_on_a_tuple" />
+        <item itemvalue="Application.EvenMatrix" />
         <item itemvalue="Application.TomandJerry2" />
         <item itemvalue="Application.TomandJerrygame" />
         <item itemvalue="Application.ChefandIcecream" />
-        <item itemvalue="Application.ChefandString" />
-        <item itemvalue="Application.ChefandPriceControl" />
       </list>
     </recent_temporary>
   </component>
@@ -145,6 +147,9 @@
       <workItem from="1591586173591" duration="4999000" />
       <workItem from="1591597023496" duration="20031000" />
       <workItem from="1591666658085" duration="173000" />
+      <workItem from="1591666835079" duration="10876000" />
+      <workItem from="1591686608459" duration="252000" />
+      <workItem from="1591689054254" duration="2642000" />
     </task>
     <servers />
   </component>

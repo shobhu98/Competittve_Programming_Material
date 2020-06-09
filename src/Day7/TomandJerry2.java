@@ -13,7 +13,7 @@ class TomandJerry2 {
             if(TS%2==1){
                 System.out.println(TS/2);
             }
-//
+
             else {
                 long xx=TS;
                 long r=0;
