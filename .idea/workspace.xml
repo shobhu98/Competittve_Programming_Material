@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a9e69f46-f2e2-4fd0-b7a0-c2c4e90e26aa" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day7/TomandJerrygame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day7/TomandJerrygame.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +44,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ChefandIcecream">
+  <component name="RunManager" selected="Application.TomandJerry2">
     <configuration name="ChefandIcecream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day7.ChefandIcecream" />
       <module name="Interview and Placement Preparation" />
@@ -83,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ques1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day6.Ques1" />
+    <configuration name="TomandJerry2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day7.TomandJerry2" />
       <module name="Interview and Placement Preparation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day6.*" />
+          <option name="PATTERN" value="Day7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ques2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day6.Ques2" />
+    <configuration name="TomandJerrygame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day7.TomandJerrygame" />
       <module name="Interview and Placement Preparation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day6.*" />
+          <option name="PATTERN" value="Day7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TomandJerry2" />
+        <item itemvalue="Application.TomandJerrygame" />
         <item itemvalue="Application.ChefandIcecream" />
         <item itemvalue="Application.ChefandString" />
         <item itemvalue="Application.ChefandPriceControl" />
-        <item itemvalue="Application.Ques2" />
-        <item itemvalue="Application.Ques1" />
       </list>
     </recent_temporary>
   </component>
@@ -140,7 +141,10 @@
       <workItem from="1591330513495" duration="12052000" />
       <workItem from="1591373667137" duration="6499000" />
       <workItem from="1591409834466" duration="7000" />
-      <workItem from="1591539846448" duration="11876000" />
+      <workItem from="1591539846448" duration="15454000" />
+      <workItem from="1591586173591" duration="4999000" />
+      <workItem from="1591597023496" duration="20031000" />
+      <workItem from="1591666658085" duration="173000" />
     </task>
     <servers />
   </component>
